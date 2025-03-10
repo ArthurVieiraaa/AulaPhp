@@ -1,4 +1,4 @@
-# Desenvolvido Por: Arthur Vieira Bruske, Fernando Ventura, Natanael e Jonathan Machado
+# Desenvolvido Por: Arthur, Fernando Ventura, Natanael e Jonathan Machado
 
 Curso: ADS 2025 | Data Inicio: 05/03/2024 | Data Termino: ----
 
