@@ -4,8 +4,8 @@
             <span>
                 <a href="https://github.com/ArthurVieiraaa">Arthur</a>,
                 <a href="https://github.com/jonathan02M">Jonathan M</a>,
-                <a href="https://github.com/">Natanael</a>,
-                <a href="https://github.com/">Fernando Ventura</a>
+                <a href="https://github.com/NatanaelBeloqui">Natanael</a>,
+                <a href="https://github.com/FeVenttura">Fernando Ventura</a>
             </span>
         </p>
     </div>
