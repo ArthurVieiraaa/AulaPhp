@@ -37,7 +37,7 @@ if(isset($_POST['usuario']) && isset($_POST['senha'])) {
             <button type="submit">Entrar</button>
             <div class="reset-senha">
                 <a href="senha.php">Esqueceu a Senha?</a>
-                <a href="senha.php">Redefinir Senha</a>
+                <a href="cadastro.php">Cadastre-se</a>
             </div>
         </form>
     </div>
