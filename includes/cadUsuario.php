@@ -38,12 +38,6 @@ if(isset($_POST['usuario']) && isset($_POST['senha'])) {
             <input type="text" id="usuario" name="usuario" placeholder="Digite o Nome..." required>
             <label for="senha">Senha do Usuário:</label>
             <input type="password" id="senha" name="senha" placeholder="Digite a Senha..." required>
-            <label for="">Qual a permissão:</label>
-            <select name="" id="">
-                <option value="professor">Professor</option>
-                <option value="desenvolvedor">Desenvolvedor</option>
-                <option value="aluno">Aluno</option>
-            </select>
             <button type="submit">Cadastrar</button>
         </form>
     </div>
